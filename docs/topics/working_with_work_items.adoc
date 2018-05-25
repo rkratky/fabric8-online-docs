@@ -1,3 +1,5 @@
+:secondary: _work-items
+
 [id="working_with_work_items"]
 = Working with work items
 
